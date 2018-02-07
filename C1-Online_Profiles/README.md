@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-https://github.com/2x3x7
+https://github.com/JaymeMoehle
 
 ### LinkedIn
 https://www.linkedin.com/in/jayme-moehle-439a5719/
 
 ### Resume
-Done
+Attached
